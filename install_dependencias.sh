@@ -1,6 +1,6 @@
 #!/bin/bash
 
-packages_to_install=("sudo" "ncurse" )
+packages_to_install=("sudo"  )
 
 # Función para determinar el gestor de paquetes del sistema
 determine_package_manager() {
